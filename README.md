@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/2M5R1ZC/dev-banner.gif" alt="Developer Banner" width="100%" />
-</p>
-
 # 🚀 Aspiring Software Developer | GenAI Learner | AI & ML Enthusiast  
 
 Crafting scalable software solutions and exploring the power of Artificial Intelligence & Machine Learning.   
