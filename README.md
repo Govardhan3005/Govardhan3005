@@ -8,13 +8,13 @@ Architecting production-grade Generative AI pipelines, fine-tuning deep learning
 
 👤 I am a **final-year B.Tech student** in **Computer Science (Artificial Intelligence & Machine Learning)** at **Jain (Deemed-to-be University)**.
 
-💡 Specializing in the end-to-end lifecycle of applied AI, my core focus centers on **Generative AI systems, Transformer fine-tuning, Agentic workflows, and scalable RESTful backends**[cite: 1]. I bridge the gap between machine learning research and enterprise software deployment[cite: 1].
+💡 Specializing in the end-to-end lifecycle of applied AI, my core focus centers on **Generative AI systems, Transformer fine-tuning, Agentic workflows, and scalable RESTful backends**[cite: 1]. I bridge the gap between machine learning research and enterprise software deployment.
 
 🔭 Highlights of my work and technical focus:
-* 🤖 **Generative AI & Agentic Systems**: Architected agentic frameworks with **Gemini APIs**, integrated enterprise REST endpoints, and built custom test harnesses to handle rate limits and schema shifts[cite: 1].
-* 🧠 **Deep Learning & Computer Vision**: Implemented **Conditional GANs (Pix2Pix)** in PyTorch for high-throughput synthetic image generation, paired with automated SSIM evaluation suites[cite: 1].
-* 📝 **NLP & LLM Engineering**: Fine-tuned **GPT-2 architectures**, authored automated evaluation pipelines using **BLEU** and **Perplexity** metrics to detect linguistic drift, and integrated regression testing in CI/CD environments[cite: 1].
-* ⚙️ **Infrastructure & Scalability**: Designing containerized applications with **Docker**, deploying on **GCP (Google Cloud Platform)**, and managing Linux server environments[cite: 1].
+* 🤖 **Generative AI & Agentic Systems**: Architected agentic frameworks with **Gemini APIs**, integrated enterprise REST endpoints, and built custom test harnesses to handle rate limits and schema shifts.
+* 🧠 **Deep Learning & Computer Vision**: Implemented **Conditional GANs (Pix2Pix)** in PyTorch for high-throughput synthetic image generation, paired with automated SSIM evaluation suites.
+* 📝 **NLP & LLM Engineering**: Fine-tuned **GPT-2 architectures**, authored automated evaluation pipelines using **BLEU** and **Perplexity** metrics to detect linguistic drift, and integrated regression testing in CI/CD environments.
+* ⚙️ **Infrastructure & Scalability**: Designing containerized applications with **Docker**, deploying on **GCP (Google Cloud Platform)**, and managing Linux server environments.
 
 ---
 
@@ -48,9 +48,9 @@ Architecting production-grade Generative AI pipelines, fine-tuning deep learning
 
 ## 🛠️ Featured AI Projects
 
-* **Monday BI Agent**: Agentic workflow automation integrating Gemini APIs and Monday.com REST endpoints, featuring continuous regression testing, distributed error handling, and payload schema validation[cite: 1].
-* **Pix2Pix Synthesis Pipeline**: Automated PyTorch conditional GAN architecture generating paired image datasets, stress-tested with Linux batch processing pipelines and SSIM benchmarking suites[cite: 1].
-* **GPT-2 NLP Harness**: Fine-tuned transformer models for conversational edge case generation, evaluated using BLEU and Perplexity metrics within automated deployment pipelines[cite: 1].
+* **Monday BI Agent**: Agentic workflow automation integrating Gemini APIs and Monday.com REST endpoints, featuring continuous regression testing, distributed error handling, and payload schema validation.
+* **Pix2Pix Synthesis Pipeline**: Automated PyTorch conditional GAN architecture generating paired image datasets, stress-tested with Linux batch processing pipelines and SSIM benchmarking suites.
+* **GPT-2 NLP Harness**: Fine-tuned transformer models for conversational edge case generation, evaluated using BLEU and Perplexity metrics within automated deployment pipelines.
 
 ---
 
