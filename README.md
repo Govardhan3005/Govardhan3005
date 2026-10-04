@@ -6,7 +6,7 @@ Architecting production-grade Generative AI pipelines, fine-tuning deep learning
 
 ## 👨‍💻 About Me
 
-👤 I am a **final-year B.Tech student** in **Computer Science (Artificial Intelligence & Machine Learning)** at **Jain (Deemed-to-be University)**[cite: 1].
+👤 I am a **final-year B.Tech student** in **Computer Science (Artificial Intelligence & Machine Learning)** at **Jain (Deemed-to-be University)**.
 
 💡 Specializing in the end-to-end lifecycle of applied AI, my core focus centers on **Generative AI systems, Transformer fine-tuning, Agentic workflows, and scalable RESTful backends**[cite: 1]. I bridge the gap between machine learning research and enterprise software deployment[cite: 1].
 
